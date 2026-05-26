@@ -14,7 +14,7 @@ DataCo Smart Supply Chain dataset — 180,000+ orders across global markets
 covering products, customers, shipping, and financials. Source: Kaggle
 
 ## Dashboard
-![Dashboard](dashboard.png)
+![Dashboard](supply-chain-analysis.png)
 
 ## Key Findings
 - Fishing is the most profitable category at $756k, nearly 50% ahead of second 
